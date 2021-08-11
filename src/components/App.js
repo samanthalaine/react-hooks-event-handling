@@ -7,18 +7,18 @@ import Login from "./Login";
 function App() {
   return (
     <div>
-      <h3>onClick</h3>
+      <h3>Tickles!</h3>
       <Tickler />
       <hr />
 
       <MultiButton />
       <hr />
 
-      <h3>onChange</h3>
+      <h3>Task</h3>
       <ChangeItUp />
       <hr />
 
-      <h3>onSubmit</h3>
+      <h3>Submit Something!</h3>
       <Login />
       <hr />
     </div>

@@ -7,9 +7,10 @@ function MultiButton() {
 
   return (
     <div>
-      <button onClick={handleClick}>Button 1</button>
-      <button onClick={handleClick}>Button 2</button>
-      <button onClick={handleClick}>Button 3</button>
+      <button onClick={handleClick}>First</button>
+      <button onClick={handleClick}>Second</button>
+      <button onClick={handleClick}>Third</button>
+      <button onClick={handleClick}>Fourth</button>
     </div>
   );
 }
